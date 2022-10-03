@@ -5,6 +5,6 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App timeTillDate="1664841600" timeFormat="X" />
+    <App timeTillDate="10 03 2022, 8:00 pm" timeFormat="MM DD YYYY, h:mm a" />
   </React.StrictMode>
 );
